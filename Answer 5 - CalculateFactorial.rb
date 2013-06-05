@@ -2,9 +2,9 @@
 
 def CalculateFactorial(n=0)
   
-  f = 1
+	f = 1
 	
-  if n != 0
+	if n != 0
 	
 		while n > 1
 			
