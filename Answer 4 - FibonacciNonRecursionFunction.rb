@@ -6,7 +6,7 @@ def FibonacciNonRecursionFunction(n=0)
 	b = 1
 	k = 0
 
-  while n > 0
+	while n > 0
 		k = a + b
 		b = a
 		a = k
