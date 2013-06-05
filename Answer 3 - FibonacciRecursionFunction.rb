@@ -2,7 +2,7 @@
 
 def FibonacciRecursionFunction(n=0)  
 
-  if n == 0
+	if n == 0
 		return 0
 	
 	elsif n == 1
